@@ -1,5 +1,7 @@
 ## Hi there 👋
-![banner](/profile/greenie.jpg)<br>
+<div align="center">
+  <img align="center" src="/profile/greenie.jpg" width="480">
+</div>
 <!--
 
 **Here are some ideas to get you started:**
