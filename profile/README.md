@@ -85,12 +85,12 @@
 | <img align="center" src="https://github.com/Greenie-crew/.github/assets/71303448/7c61d241-4687-498c-b170-812fb178d252" width="240">| <img align="center" src="https://github.com/Greenie-crew/.github/assets/71303448/bff39e9b-7b61-49ae-9594-fb7d25ae336a" width="240">|
 
 
-###  소음 측정하기 🎉 
+###  소음 측정하기 🔊 
 
 - 소음을 측정하여 앱에 저장하고 분석 결과화면을 웹 뷰로 제공
 
   
-###  소음 트래킹 🎉
+###  소음 트래킹 🔊
 - 특정 시간 동안 기준치 이상의 소음(80dB)이 몇번 발생했는지 그래프로 확인
 
 <br>
