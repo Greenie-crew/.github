@@ -176,7 +176,7 @@ https://github.com/Greenie-crew/greenie-web/blob/develop/README.md
 </summary>
 <div markdown="1"> 
  
- - 기능 구현
+#### 기능 구현
     - 리스트를 주루룩 나열하는 것이 아닌 우선순위를 매기고 소음을 감소시키는 상품을 추천하는 기능 구현 
     - 디도스 공격 등 불특정 다수의 요청으로 인해 예기치 않은 상황이 발생하는 것을 막고자 nginx  웹 서버를 앞단에 두어 예측을 넘어서는
       이상한 요청건은 503에러 반환
