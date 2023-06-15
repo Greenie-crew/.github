@@ -97,9 +97,9 @@
 ## 6. 리포짓토리 
 잡았다 소음을 이루는 소스코드가 궁금하다면 ⁉
 
-Android :
+[Android] 
 <br>
-FrontEnd :
+[FrontEnd] 
 <br>
 [BackEnd](https://github.com/Greenie-crew/Greenie-backend) 
 
