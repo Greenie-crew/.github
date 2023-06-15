@@ -64,7 +64,7 @@
 
 ## 3. 백엔드 ERD 및 와이어 프레임 🛠
 <div align="center">
- ![wireframe](https://github.com/Greenie-crew/.github/assets/71303448/c36a9033-0c2c-4434-b471-3b62cc558753)
+  <img align="center" src="https://github.com/Greenie-crew/.github/assets/71303448/c36a9033-0c2c-4434-b471-3b62cc558753" width="480">
 </div><br>
 
 ### [ 와이어프레임 ]   [ Figma ](https://www.figma.com/file/D1FJxm69kI0QDLSWs0adiG/Greenie-%EC%9E%A1%EC%95%98%EB%8B%A4!-%EC%86%8C%EC%9D%8C?type=design&node-id=0%3A1&t=o3BrwVucKr5HeBse-1)
