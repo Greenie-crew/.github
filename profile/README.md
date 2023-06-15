@@ -185,7 +185,8 @@ https://github.com/Greenie-crew/greenie-web/blob/develop/README.md
 </div>
 </details>
 
-
+#### 자세히 보기 > 
+https://github.com/Greenie-crew/greenie-backend/blob/develop/README.md
 
 
 
