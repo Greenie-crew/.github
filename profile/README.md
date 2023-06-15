@@ -13,7 +13,7 @@
   <img align="center" src="https://github.com/Greenie-crew/.github/assets/71303448/915bba84-ffa7-4dd8-a55c-62b051c1d61f" width="480">
 </div>
 
-[![android](https://github.com/Greenie-crew/.github/assets/71303448/915bba84-ffa7-4dd8-a55c-62b051c1d61f)](https://drive.google.com/file/d/1rRvhvFjUJRRTOW-yiM6hZ4_TpH39x9fd/view?usp=sharing)
+[![android]("/profile/마스코트.png")](https://drive.google.com/file/d/1rRvhvFjUJRRTOW-yiM6hZ4_TpH39x9fd/view?usp=sharing)
 
 
 
