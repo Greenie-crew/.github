@@ -1,8 +1,12 @@
-# 잡았다 소음!  👋
+# Greenie 
+
+## Greenie 소개 
+
 <div align="center">
   <img align="center" src="/profile/greenie.jpg" width="480">
 </div>
 
+# 잡았다 소음!  👋
 
 #  [ 프로젝트 개요 ]
 
