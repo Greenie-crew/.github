@@ -19,6 +19,7 @@
 <div align="center">
  <span>
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/> 
+     <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> 
  </span>
  <br>
   <span>
