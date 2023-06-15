@@ -6,7 +6,7 @@
   <img align="center" src="/profile/greenie.jpg" width="480">
 </div>
 
-# 잡았다 소음!  👋
+# 잡았다 소음! ![마스코트](https://github.com/Greenie-crew/.github/assets/71303448/915bba84-ffa7-4dd8-a55c-62b051c1d61f) 👋
 
 #  [ 프로젝트 개요 ]
 
