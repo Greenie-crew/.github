@@ -70,7 +70,11 @@
 ### [ 백엔드 ERD ]  [ERD 주소](https://www.erdcloud.com/d/qro5eibi6BhBKvKSQ)
 
 
-## 4. 전체 구현 기능 🎨
+## 4. 시연 영상 ⛏
+
+[유튜브 링크](https://youtu.be/ElwwGIre76s)
+
+## 5. 전체 구현 기능 🎨
 좀 감이 안오는데 어떻게 짤지 얘기해보기
 대략적인 기능 
 
@@ -86,9 +90,7 @@ SUB
 건강챙기기 
 소음 방지제품 
 
-## 5. 시연 영상 ⛏
 
-[유튜브 링크](https://youtu.be/ElwwGIre76s)
 
 
 
