@@ -105,17 +105,17 @@
 <div markdown="1">
 
 #### 아키텍처  <br>
-    - Clean Architecture 및 MVVM 아키텍처를 멀티모듈 구조에 적용하여, 크게 Data ->   Domain <- UI 의 구조를 가지며, Dagger hilt를 통한 DI를 활용하여 UI에서 필요한 비즈니스 로직을 호출<br>
-    - app: 앱 수준 및 네비게이션 제어 등을 담당하는 앱의 시작점을 가르키는 모듈입니다.              Core 및 Feature 등의 모듈을 의존합니다. <br>
-    - core: 앱 구동간에 필요한 코드 및 특수 목적을 위한 공통 라이브러리 모듈입니다. Core       모듈 내 타 모듈에 대한 종속성을 가지지 않습니다. <br>
-    - Type은 확장이 용이하도록 BaseType을 선언해 중복되는 Property를 줄였어요. <br>
-    - feature: 앱에서 단일 책임을 처리하도록 범위가 정해진 기능 모듈입니다. Core 내의
+   - Clean Architecture 및 MVVM 아키텍처를 멀티모듈 구조에 적용하여, 크게 Data ->   Domain <- UI 의 구조를 가지며, Dagger hilt를 통한 DI를 활용하여 UI에서 필요한 비즈니스 로직을 호출<br>
+   - app: 앱 수준 및 네비게이션 제어 등을 담당하는 앱의 시작점을 가르키는 모듈입니다.              Core 및 Feature 등의 모듈을 의존합니다. <br>
+   - core: 앱 구동간에 필요한 코드 및 특수 목적을 위한 공통 라이브러리 모듈입니다. Core       모듈 내 타 모듈에 대한 종속성을 가지지 않습니다. <br>
+   - Type은 확장이 용이하도록 BaseType을 선언해 중복되는 Property를 줄였어요. <br>
+   - feature: 앱에서 단일 책임을 처리하도록 범위가 정해진 기능 모듈입니다. Core 내의
                모듈만 의존합니다. <br>
  
 #### tensorflow-model-maker-script <br>
-    ◻ noise_model은 2개의 출력을 가진다. <br>
-    - 521가지의 분류를 가진 YAMNET <br>
-    - AI HUB의 소음 데이터를 기반으로 분류 <br>
+   ◻ noise_model은 2개의 출력을 가진다. <br>
+   - 521가지의 분류를 가진 YAMNET <br>
+   - AI HUB의 소음 데이터를 기반으로 분류 <br>
 
 
 #### 자세히 보기 > 
