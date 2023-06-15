@@ -119,7 +119,7 @@
 
 
 #### 자세히 보기 > 
-https://github.com/Greenie-crew/greenie-web/blob/develop/README.md
+https://github.com/Greenie-crew/greenie-android/blob/develop/README.md
 </div>
 </details>
 <br>
