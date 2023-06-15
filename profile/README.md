@@ -82,7 +82,10 @@
 
 ## 4. 시연 영상 ⛏
 
-[![Status](https://youtu.be/ElwwGIre76s)](https://github.com/Greenie-crew/.github/assets/71303448/ec43d2df-499a-452c-93f6-30b45e48bb99)
+<a href="https://youtu.be/ElwwGIre76s">
+<img src="https://github.com/Greenie-crew/.github/assets/71303448/ec43d2df-499a-452c-93f6-30b45e48bb99"  width="600" height="480">
+</a>
+  [![Status](https://youtu.be/ElwwGIre76s)](https://github.com/Greenie-crew/.github/assets/71303448/ec43d2df-499a-452c-93f6-30b45e48bb99)
 
 
 
