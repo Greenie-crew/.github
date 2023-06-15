@@ -1,4 +1,4 @@
-# Greenie 
+<!--# Greenie 
 
 ## Greenie 소개 
 
@@ -6,7 +6,7 @@
   <img align="center" src="/profile/greenie.jpg" width="480">
   <p> 서울시의 초록초록한 미래와 사람들의 불편함을 개선하고자 뭉쳤다!</p>
 </div>
-
+-->
 # 잡았다 소음!  👋
 
 <div align="center">
