@@ -1,4 +1,4 @@
-## Hi there 👋
+# 잡았다 소음!  👋
 <div align="center">
   <img align="center" src="/profile/greenie.jpg" width="480">
 </div>
