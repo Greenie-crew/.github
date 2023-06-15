@@ -99,7 +99,7 @@
 
 <details>
 <summary>
-<h3>✨ 안드로이드 코드 통일성에 대한 지속적인 고민</h3>
+<h3>✨ 안드로이드 기능 구현을 위한 생각들 </h3>
 </summary>
 <div markdown="1">
 
@@ -123,7 +123,7 @@
 
 <details>
 <summary>
-<h3>✨ 프론트엔드 코드 통일성에 대한 지속적인 고민</h3>
+<h3>✨ 프론트엔드 기능 구현을 위한 생각들</h3>
 </summary>
 <div markdown="1">
 
@@ -147,7 +147,7 @@
 
 <details>
 <summary>
-<h3>✨ 백엔드 기능 구현을 위한 고민 </h3>
+<h3>✨ 백엔드 기능 구현을 위한 생각들 </h3>
 </summary>
 <div markdown="1">
 
