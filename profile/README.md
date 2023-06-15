@@ -128,12 +128,35 @@
 </summary>
 <div markdown="1">
 
-- 주요 기능 구현
-    - 소음분석 데이터 분석 결과 보기
-    - 소음 줄이기 페이지 이동
-    - 상품 추천
-    - 공유하기
+![react-android-webview-communication-1](https://github.com/Greenie-crew/.github/assets/76466545/22cf181d-82ca-4a06-9396-ac41b39e924a)
 
+#### ReactJS CSR(클라이언트 사이드 렌더링) 방식 </br>
+👍 장점
+- 초기 로드만 완료되면 이후 렌더링이 빠르다. </br>
+- 서버에 요청할 것이 거의 없어 서버 부담이 적다. (data 필요할 때만 요청) </br>
+- Web Applications에 좋다
+- 
+</br>
+styled-components(CSS-in-JS) 활용:  비교적 가벼운 기능을 구현하는 것이기 때문에 CSS-in-JS 방식이 더 적합하다고 생각하였다
+</br>
+#### Redux리덕스 Reducer 리듀서로 
+결과그래프 imgURL state 구현
+</br>
+👍 장점 </br>
+-state 관리가 편하다! 관리를 한곳에서 할 수 있다. </br>
+-상태를 예측 가능하게 만들어 준다. : 리덕스는 순수함수이기 때문에 다음상태가 어떻게 될지 쉽게 예측 가능 </br>
+-유지보수 용이
+
+</br>
+
+#### vercel 배포
+
+Vercel은 React, Vue, Angular 및 Next.js와 같은 프레임워크를 사용하여 정적 웹사이트를 더 쉽게 빌드하고 배포할 수 있는 서비스이다.
+Vercel은 Git 저장소를 자동으로 인식하고, 변경 사항을 감지하여 배포하므로, 자동화된 배포가 가능하다.
+
+또한 Vercel은 웹사이트의 성능에 대한 자세한 정보를 제공하며, 강력한 CDN을 사용하여 전 세계적으로 빠른 성능을 제공한다. 
+
+마지막으로 Vercel은 다양한 기능과 툴을 제공하고, 서비스로 지원하는 프레임워크에서 더 많은 편의성과 효율성을 제공한다.
 </div>
 </details>
 <br>
