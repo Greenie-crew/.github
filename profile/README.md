@@ -12,7 +12,9 @@
 <div align="center">
   <img align="center" src="https://github.com/Greenie-crew/.github/assets/71303448/915bba84-ffa7-4dd8-a55c-62b051c1d61f" width="480">
 </div>
- [다운로드 링크](https://drive.google.com/file/d/1rRvhvFjUJRRTOW-yiM6hZ4_TpH39x9fd/view?usp=sharing)
+<div> 
+  (https://drive.google.com/file/d/1rRvhvFjUJRRTOW-yiM6hZ4_TpH39x9fd/view?usp=sharing)
+</div>
 
 
 
@@ -84,9 +86,7 @@
 
 
 ## 4. 시연 영상 ⛏
-<!--
-  [![image](https://github.com/Greenie-crew/.github/assets/71303448/ec43d2df-499a-452c-93f6-30b45e48bb99)](https://youtu.be/ElwwGIre76s)
-  -->
+
   [![Video Label](http://img.youtube.com/vi/ElwwGIre76s/0.jpg)](https://youtu.be/ElwwGIre76s)
 
 
