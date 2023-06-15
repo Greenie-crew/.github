@@ -128,14 +128,17 @@
 </summary>
 <div markdown="1">
 
-![react-android-webview-communication-1](https://github.com/Greenie-crew/.github/assets/76466545/22cf181d-82ca-4a06-9396-ac41b39e924a)
+ <div align="center">
+  <img align="center" src="https://github.com/Greenie-crew/.github/assets/76466545/22cf181d-82ca-4a06-9396-ac41b39e924a" width="600">
+</div><br>
+
 
 #### ReactJS CSR(클라이언트 사이드 렌더링) 방식 </br>
 👍 장점
 - 초기 로드만 완료되면 이후 렌더링이 빠르다. </br>
 - 서버에 요청할 것이 거의 없어 서버 부담이 적다. (data 필요할 때만 요청) </br>
 - Web Applications에 좋다
-- 
+
 </br>
 styled-components(CSS-in-JS) 활용:  비교적 가벼운 기능을 구현하는 것이기 때문에 CSS-in-JS 방식이 더 적합하다고 생각하였다
 </br>
