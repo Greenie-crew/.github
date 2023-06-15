@@ -118,6 +118,12 @@
     - AI HUB의 소음 데이터를 기반으로 분류
 
 
+#### 자세히 보기 > 
+https://github.com/Greenie-crew/greenie-web/blob/develop/README.md
+</div>
+</details>
+<br>
+
 </div>
 </details>
 <br>
