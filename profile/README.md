@@ -159,6 +159,11 @@ Vercel은 Git 저장소를 자동으로 인식하고, 변경 사항을 감지하
 또한 Vercel은 웹사이트의 성능에 대한 자세한 정보를 제공하며, 강력한 CDN을 사용하여 전 세계적으로 빠른 성능을 제공한다. 
 
 마지막으로 Vercel은 다양한 기능과 툴을 제공하고, 서비스로 지원하는 프레임워크에서 더 많은 편의성과 효율성을 제공한다.
+
+</br>
+
+#### 자세히 보기 > 
+https://github.com/Greenie-crew/greenie-web/blob/develop/README.md
 </div>
 </details>
 <br>
