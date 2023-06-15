@@ -89,7 +89,7 @@
 
 | 소음측정하기      | 소음 트래킹                             |
 |---------------------------------|---------------------------------|
-|  <img  src="https://github.com/Greenie-crew/.github/assets/71303448/08a79d7c-3001-46c2-a192-e8f98c519fc9" width="480" height="240"> |  <img  src="https://github.com/Greenie-crew/.github/assets/71303448/db9a8b9f-5cab-4e15-adea-d829da482bd6" width="480" height="240">        |
+|![소음 측정하기](https://github.com/Greenie-crew/Greenie-backend/assets/71303448/112f787a-34ad-47dd-bf91-d93dd48f7881) |  ![소음트래킹](https://github.com/Greenie-crew/Greenie-backend/assets/71303448/0b026391-322c-4e45-a83c-3f6c24f9dc45)        |
 
 
 ###  소음 측정하기 🎉 
