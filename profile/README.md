@@ -1,9 +1,9 @@
 
 # 잡았다 소음!  👋
 
-<div align="center">
+
  [![android](/profile/마스코트.png)](https://drive.google.com/file/d/1rRvhvFjUJRRTOW-yiM6hZ4_TpH39x9fd/view?usp=sharing)
-</div>
+
 
 #  [ 프로젝트 개요 ]
 
