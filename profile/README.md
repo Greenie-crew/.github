@@ -89,7 +89,7 @@
 
 | 소음측정하기      | 소음 트래킹                             |
 |---------------------------------|---------------------------------|
-| **프로젝트소개**  | 생활속의 소음트러블을 해소하기위한 서비스          |
+|  <img  src="https://github.com/Greenie-crew/.github/assets/71303448/08a79d7c-3001-46c2-a192-e8f98c519fc9" width="480"> |  <img  src="https://github.com/Greenie-crew/.github/assets/71303448/db9a8b9f-5cab-4e15-adea-d829da482bd6" width="480">        |
 
 
 ###  소음 측정하기 🎉 
