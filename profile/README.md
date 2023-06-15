@@ -64,9 +64,9 @@
 
 ## 3. 백엔드 ERD 및 와이어 프레임 🛠
 
-사진 뭐 넣고 싶은데 와이어프레임 어떻게 보여줄지 추천 받기 
+![wireframe]()
 
-### [ 와이어프레임 ]   [ Figma ](https://www.figma.com/file/D1FJxm69kI0QDLSWs0adiG/%EB%91%90%EB%91%90's-team-library?type=design&node-id=411%3A2&t=cK2CQkRgg4JjV27l-1)
+### [ 와이어프레임 ]   [ Figma ](https://www.figma.com/file/D1FJxm69kI0QDLSWs0adiG/Greenie-%EC%9E%A1%EC%95%98%EB%8B%A4!-%EC%86%8C%EC%9D%8C?type=design&node-id=0%3A1&t=o3BrwVucKr5HeBse-1)
 
 ### [ 백엔드 ERD ]  [ERD 주소](https://www.erdcloud.com/d/qro5eibi6BhBKvKSQ)
 
