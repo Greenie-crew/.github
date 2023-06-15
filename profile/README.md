@@ -112,7 +112,7 @@
     - feature: 앱에서 단일 책임을 처리하도록 범위가 정해진 기능 모듈입니다. Core 내의
                모듈만 의존합니다.
  
-- tensorflow-model-maker-script
+- tensorflow-model-maker-script <br>
     ◻ noise_model은 2개의 출력을 가진다.
     - 521가지의 분류를 가진 YAMNET
     - AI HUB의 소음 데이터를 기반으로 분류
