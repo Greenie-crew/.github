@@ -82,8 +82,8 @@
 
 ## 4. 시연 영상 ⛏
 
-[유튜브 링크](https://youtu.be/ElwwGIre76s)
 
+![썸네일](https://github.com/Greenie-crew/.github/assets/71303448/5a612ca0-9aaf-43e2-bc56-597b5260ef9d)(https://youtu.be/ElwwGIre76s)
 
 ## 5. 주요 기능 🎨
 
