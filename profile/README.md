@@ -104,7 +104,7 @@
 </summary>
 <div markdown="1">
 
-#### 아키텍처  <br>
+#### ‼ 아키텍처  <br>
    - Clean Architecture 및 MVVM 아키텍처를 멀티모듈 구조에 적용하여, 크게 Data ->   Domain <- UI 의 구조를 가지며, Dagger hilt를 통한 DI를 활용하여 UI에서 필요한 비즈니스 로직을 호출<br>
    - app: 앱 수준 및 네비게이션 제어 등을 담당하는 앱의 시작점을 가르키는 모듈입니다.              Core 및 Feature 등의 모듈을 의존합니다. <br>
    - core: 앱 구동간에 필요한 코드 및 특수 목적을 위한 공통 라이브러리 모듈입니다. Core       모듈 내 타 모듈에 대한 종속성을 가지지 않습니다. <br>
@@ -112,7 +112,7 @@
    - feature: 앱에서 단일 책임을 처리하도록 범위가 정해진 기능 모듈입니다. Core 내의
                모듈만 의존합니다. <br>
  
-#### tensorflow-model-maker-script <br>
+#### ‼ tensorflow-model-maker-script <br>
    ◻ noise_model은 2개의 출력을 가진다. <br>
    - 521가지의 분류를 가진 YAMNET <br>
    - AI HUB의 소음 데이터를 기반으로 분류 <br>
@@ -139,7 +139,7 @@ https://github.com/Greenie-crew/greenie-android/blob/develop/README.md
 </div><br>
 
 
-#### ReactJS CSR(클라이언트 사이드 렌더링) 방식 </br>
+#### ‼ ReactJS CSR(클라이언트 사이드 렌더링) 방식 </br>
 👍 장점
 - 초기 로드만 완료되면 이후 렌더링이 빠르다. </br>
 - 서버에 요청할 것이 거의 없어 서버 부담이 적다. (data 필요할 때만 요청) </br>
@@ -149,7 +149,7 @@ https://github.com/Greenie-crew/greenie-android/blob/develop/README.md
 styled-components(CSS-in-JS) 활용:  비교적 가벼운 기능을 구현하는 것이기 때문에 CSS-in-JS 방식이 더 적합하다고 생각하였다
 </br>
 
-#### Redux리덕스 Reducer 리듀서로 결과그래프 imgURL state 구현
+#### ‼ Redux리덕스 Reducer 리듀서로 결과그래프 imgURL state 구현
 </br>
 
 👍 장점 </br>
@@ -159,7 +159,7 @@ styled-components(CSS-in-JS) 활용:  비교적 가벼운 기능을 구현하는
 
 </br>
 
-#### vercel 배포
+#### ‼ vercel 배포
 
 Vercel은 React, Vue, Angular 및 Next.js와 같은 프레임워크를 사용하여 정적 웹사이트를 더 쉽게 빌드하고 배포할 수 있는 서비스이다.
 Vercel은 Git 저장소를 자동으로 인식하고, 변경 사항을 감지하여 배포하므로, 자동화된 배포가 가능하다.
@@ -182,7 +182,7 @@ https://github.com/Greenie-crew/greenie-web/blob/develop/README.md
 </summary>
 <div markdown="1"> 
  
-#### 기능 구현
+#### ‼ 기능 구현
    - 리스트를 주루룩 나열하는 것이 아닌 우선순위를 매기고 소음을 감소시키는 상품을 추천하는 기능 구현 
    - 디도스 공격 등 불특정 다수의 요청으로 인해 예기치 않은 상황이 발생하는 것을 막고자 nginx  웹 서버를 앞단에 두어 예측을 넘어서는
       이상한 요청건은 503에러 반환
