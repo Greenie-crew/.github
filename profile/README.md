@@ -88,20 +88,14 @@
 
 - 소음을 측정하여 앱에 저장하고 분석 결과화면을 웹 뷰로 제공
 
+  
+
 
 
 ###  소음 트래킹 🎉
 - 특정 시간 동안 기준치 이상의 소음(80dB)이 몇번 발생했는지 그래프로 확인
 
 
-## 6. 리포짓토리 
-잡았다 소음을 이루는 소스코드가 궁금하다면 ⁉
-
-[Android] 
-<br>
-[FrontEnd] 
-<br>
-[BackEnd](https://github.com/Greenie-crew/Greenie-backend) 
 
 
 
