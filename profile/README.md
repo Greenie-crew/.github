@@ -113,9 +113,9 @@
                모듈만 의존합니다.
  
 - tensorflow-model-maker-script
-    - noise_model은 2개의 출력을 가진다.
+    ◻ noise_model은 2개의 출력을 가진다.
     - 521가지의 분류를 가진 YAMNET
-    - AI HUB의 소음 데이터를 기반으로 분류합니다.
+    - AI HUB의 소음 데이터를 기반으로 분류
 
 
 </div>
