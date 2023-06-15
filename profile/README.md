@@ -182,11 +182,13 @@ https://github.com/Greenie-crew/greenie-web/blob/develop/README.md
       이상한 요청건은 503에러 반환
    - jmeter 툴을 활용하여 부하 테스트 및 동시접속자 수를 예상하여 트래픽 핸들링
 
+#### 자세히 보기 > 
+https://github.com/Greenie-crew/greenie-backend/blob/develop/README.md
+
 </div>
 </details>
 
-#### 자세히 보기 > 
-https://github.com/Greenie-crew/greenie-backend/blob/develop/README.md
+
 
 
 
