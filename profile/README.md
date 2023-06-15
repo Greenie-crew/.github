@@ -143,8 +143,7 @@
 styled-components(CSS-in-JS) 활용:  비교적 가벼운 기능을 구현하는 것이기 때문에 CSS-in-JS 방식이 더 적합하다고 생각하였다
 </br>
 
-#### Redux리덕스 Reducer 리듀서로 
-결과그래프 imgURL state 구현
+#### Redux리덕스 Reducer 리듀서로 결과그래프 imgURL state 구현
 </br>
 
 👍 장점 </br>
