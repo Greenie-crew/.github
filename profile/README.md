@@ -83,7 +83,7 @@
 ## 4. 시연 영상 ⛏
 
   [![image](https://github.com/Greenie-crew/.github/assets/71303448/ec43d2df-499a-452c-93f6-30b45e48bb99)](https://youtu.be/ElwwGIre76s)
-  [![Video Label](https://youtu.be/ElwwGIre76s/o.jpg)](https://youtu.be/ElwwGIre76s)
+  [![Video Label](https://youtu.be/vi/ElwwGIre76s/o.jpg)](https://youtu.be/ElwwGIre76s)
 
 
 
