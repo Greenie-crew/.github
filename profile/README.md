@@ -9,7 +9,7 @@
 # 잡았다 소음!  👋
 
 <div align="center">
-  <img align="center" src="[/profile/greenie.jpg](https://github.com/Greenie-crew/.github/assets/71303448/915bba84-ffa7-4dd8-a55c-62b051c1d61f)" width="480">
+  <img align="center" src="https://github.com/Greenie-crew/.github/assets/71303448/915bba84-ffa7-4dd8-a55c-62b051c1d61f" width="480">
 </div>
 
 
