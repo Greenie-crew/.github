@@ -8,10 +8,12 @@
 </div>
 -->
 # 잡았다 소음!  👋
-
+<span>
 <div align="center">
   <img align="center" src="https://github.com/Greenie-crew/.github/assets/71303448/915bba84-ffa7-4dd8-a55c-62b051c1d61f" width="480">
 </div>
+  ![잡았다 소음 stat's](https://github-readme-stats.vercel.app/api?username=Greenie-crew&theme=dark&show_icons=true)
+</span>
 
 
 
