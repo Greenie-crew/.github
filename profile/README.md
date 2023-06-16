@@ -2,7 +2,7 @@
 # 잡았다 소음!  👋
 
 
- [![android](/profile/마스코트.png)](https://drive.google.com/file/d/1oWF9--EBkg4dlFEulKI_304Tq8jIeX3r/view?usp=sharing)
+ [![android](/profile/마스코트.png)](https://drive.google.com/file/d/1oWF9--EBkg4dlFEulKI_304Tq8jIeX3r/view?usp=sharing) <=  클릭시 앱 다운로드
 
 
 #  [ 프로젝트 개요 ]
